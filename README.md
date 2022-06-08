@@ -1,1 +1,1 @@
-# Padroniza-o-Images
+# Padroniza Imagens
